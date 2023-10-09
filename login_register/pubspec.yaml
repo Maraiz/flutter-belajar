@@ -30,9 +30,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  # google_fonts: ^1.0.0
-  # flutter_svg: ^0.22.0
-  # simple_shadow: ^0.2.0
+  google_fonts: 6.1.0
+  flutter_svg: ^0.22.0
+  simple_shadow: ^0.2.0
 
 
 
